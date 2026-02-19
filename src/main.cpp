@@ -1,8 +1,1 @@
-#include "serve.h"
-
-int main()
-{
-    Server server;
-    server.run(18080);
-    return 0;
-}
+VimCrypt~03!§)ÅM &pzá*é™S—"I›½Í…æÙWÉÕµ¾ĞWÁ‘+%A–ã”„ÔgY„ÆŠvPÜŒÍx1~v´\ŠB†kGœûÓ°ğG‡oÂÉGÂã9‡Å yWsŒ¸uÈşÏú
